@@ -1,0 +1,6 @@
+{
+    "database_url": "postgresql://postgres:postgres123@localhost:5432/Text2SQL",
+    "ollama_url": "http://localhost:11434",
+    "ollama_model": "qwen2.5:1.5b",
+    "ollama_temperature": 0.0
+}
